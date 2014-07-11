@@ -1,12 +1,12 @@
 html {
-  background:  url(http://i.imgur.com/QgJUL.gif) no-repeat center center fixed;
+  background:  url(http://i.imgur.com/SvGUOxd.gif) no-repeat center center fixed;
   background-size: cover;
 }
 h1{
-  font-family: 'Times New Roman', sans-serif;
-  font-size: 3em;
-  margin: .2em .5em;
-  color: rgba(0,0,0, 0.3);
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 5em;
+  margin-top: .8em;
+  color: rgba(0,0,0, 0.8);
 }
 body {
     height: 100%;
